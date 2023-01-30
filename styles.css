@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-image: url(https://en.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_7112/salle-de-cin%C3%A9ma-%7C-630x405-%7C-%C2%A9-fotolia-he2/12344768-1-fre-FR/Salle-de-cin%C3%A9ma-%7C-630x405-%7C-%C2%A9-Fotolia-he2.jpg);
+  color: #f5f6f7;
+  font-family: Garamond;
+  font-size: 16px;
+  background-position: center;
+  background-size: cover;
+}
+
+h1, p {
+  text-align: center;
+}
+
+form {
+  width: 100%;
+  max-width: 650px;
+  min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  background-color: #00004d;
+  height: 260px;
+  border: 0;
+}
+
+label {
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  color: white;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
